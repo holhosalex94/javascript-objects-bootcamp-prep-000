@@ -1,1 +1,1 @@
-var playlist = {};
+var sbjects = { object:"playlist"};
